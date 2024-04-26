@@ -1,0 +1,10 @@
+background{
+    width: 100%;
+}
+.posts{
+    display:flex;
+    flex-direction: column;
+    margin: 1rem auto;
+    align-items: center;
+    gap: 20px;
+}
